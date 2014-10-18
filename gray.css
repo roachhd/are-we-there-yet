@@ -6,20 +6,20 @@
 /* First color */
 
 .icon-dark:hover {
-	color: #e24747!important;
+	color: #b7b8c1!important;
 }
 
 .email-tooltips,
 #subscribe-form input[type="text"],
 #subscribe-response:hover a,
 .tooltips {
-	color: #e24747;
+	color: #b7b8c1;
 }
 
 .hr,
 #send,
 .top {
-	background-color: #e24747;
+	background-color: #b7b8c1;
 }
 
 
