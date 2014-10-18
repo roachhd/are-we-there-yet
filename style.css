@@ -1,0 +1,217 @@
+/* 
+ *  All colors setting are in CSS files in colors directory
+ */
+
+
+
+/* Global */
+
+body, html {
+	height: 100%;
+}
+
+html {
+	-webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Chivo', sans-serif;
+	font-weight: 900; 
+}
+
+a.icon {
+	text-decoration: none;
+}
+
+img.logo {
+	margin-top: 10px;
+	width: 250px;
+}
+
+input[type="text"] {
+	margin-top: 35px!important;
+}
+
+input:focus{
+    outline: 0;
+}
+
+*:focus {
+    outline: 0;
+}
+
+.bottom, .top {
+	height: 50%;
+	margin: auto;
+	min-height: 350px;
+	width: 100%;
+}
+
+.bottom {
+	padding-top: 5px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
+
+.hr {
+	height: 20px;
+}
+
+.left {
+	display: block;
+	margin-left: 0;
+	margin-right: auto;
+	text-align: left;
+}
+
+.right {
+	display: block;
+	margin-left: auto;
+	margin-right: 0;
+	text-align: right;
+}
+
+.slogan {
+	margin-bottom: -5px;
+	margin-top: 50px;
+}
+
+
+
+/* Top */
+
+.caption {
+	font-family: 'Baumans';
+	position: relative;
+	top: -70px;
+}
+
+.count {
+	width: 140px;
+}
+
+#countdown {
+	margin-top: 45px;
+	text-align: center;
+}
+
+.finish {
+	font-family: 'Baumans';
+	font-size: 32px;
+}
+
+.knob {
+	margin: 0 auto;
+	width: 140px;
+}
+
+
+
+/* Bottom */
+
+.newsletter {
+	height: 60px;
+	margin-top: 25px;
+}
+
+#send {
+	border-radius: 32px;
+		-webkit-border-radius: 32px;
+    	-moz-border-radius: 32px;
+    display: inline-block;
+	height: 64px;
+    left: -15px;
+    padding: 14px 0;
+    position: relative;
+    top: 0px;
+   	width: 64px;
+    z-index: 999;
+}
+
+.send img {
+	height: 30px;
+	margin-top: 15px;
+	width: 30px;
+}
+
+.send-icon {
+	font-size: 2.4em;
+}
+
+.social {
+	margin-top: 60px;
+}
+
+#subscribe-form input[type="text"] {
+    border: 0;
+	border-radius: 20px;
+    	-webkit-border-radius: 20px;
+    	-moz-border-radius: 20px;
+    display:inline-block;
+    font-family: 'Baumans';
+    height: 40px;
+    left: 15px;
+    padding: 5px 20px;
+    position: relative;
+    top: -6px;
+    width: 350px;
+    z-index:0;
+}
+
+#subscribe-response {
+	display:none;
+	font-family: 'Baumans';
+	font-size: 18px;
+	position: relative;
+    top: 35px;
+}
+
+.tooltips, .email-tooltips {
+	border: 0;
+	border-radius: 15px; 
+	height: 30px;
+}
+
+.tooltips .tooltipster-content, .email-tooltips .tooltipster-content {
+	font-family: 'Baumans';
+	font-size: 14px;
+	line-height: 16px;
+	overflow: hidden;
+	padding: 6px 10px;
+	text-align: center;
+}
+
+.tooltips .tooltipster-content {
+	width: 100px;
+}
+
+.email-tooltips .tooltipster-content {
+	width: 200px;
+}
+
+
+
+/* Responsive */
+
+@media (max-width: 480px) { 
+	#subscribe-form input[type="text"] {
+    	width: 70%!important;
+    }
+    .top, .bottom {
+    	min-height: 400px;
+    }
+}
