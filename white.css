@@ -19,7 +19,7 @@
 .hr,
 #send,
 .top {
-	background-color: #f7f7f7;
+	background-color: #fdfdfd;
 }
 
 
@@ -42,14 +42,14 @@
 
 a,
 body {
-	color: #FFFFFF;
+	color: #191919;
 }
 
 .email-tooltips,
 .tooltips  {
-	background: #FFFFFF;
+	background: #191919;
 }
 
 .icon-circle {
-	color: #FFFFFF!important;
+	color: #191919!important;
 }
