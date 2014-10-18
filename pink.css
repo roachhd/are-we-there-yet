@@ -1,0 +1,55 @@
+/*
+ * Edit the file and create your own awesome color variations!
+ */
+
+ 
+/* First color */
+
+.icon-dark:hover {
+	color: #e6567a!important;
+}
+
+.email-tooltips,
+#subscribe-form input[type="text"],
+#subscribe-response:hover a,
+.tooltips {
+	color: #e6567a;
+}
+
+.hr,
+#send,
+.top {
+	background-color: #e6567a;
+}
+
+
+/* Second color */
+
+.bottom {
+	background-color:#2c2c35;
+}
+
+.icon-dark {
+	color:#2c2c35!important;
+}
+
+#send:hover {
+	color: #2c2c35;
+}
+
+
+/* Third color */
+
+a,
+body {
+	color: #FFFFFF;
+}
+
+.email-tooltips,
+.tooltips  {
+	background: #FFFFFF;
+}
+
+.icon-circle {
+	color: #FFFFFF!important;
+}
