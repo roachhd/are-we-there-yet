@@ -9,7 +9,8 @@ Top Color | Bottom Color | Font
 --------- | ------------ | ----
 [Blue](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/blue.html) | Black | Whit
 [Gray](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/gray.html) | Black | White
-[Green](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/green.html) | Black | White[Mint](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/mint.html) | Black | White
+[Green](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/green.html) | Black | White
+[Mint](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/mint.html) | Black | White
 [Orange](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/orange.html) | Black | White
 [Pink](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/pink.html) | Black | White
 [Red](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/red.html) | Black | White
