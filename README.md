@@ -18,6 +18,7 @@ Preview | Top Color | Bottom Color | Font
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/white.html) | White | Black | Black with pink accent
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/yellow.html) |  Yellow |Black | White with yellow accent
 
+![Preview Image](http://1drv.ms/1ohKa3h)
 ######MORE COLORS COMING SOON 🔜
 
 The MIT License (MIT)
