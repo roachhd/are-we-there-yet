@@ -22,7 +22,7 @@ Preview | Top Color | Bottom Color | Font
 
 ######MORE COLORS COMING SOON 🔜
 
-The MIT License [MIT](https://github.com/roachhd/are-we-there-yet/blob/master/License.md)
+The MIT License [MIT](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/License.md)
 Copyright (c) [2014] [Roach Haus](http://roachhd.com)
 
 
