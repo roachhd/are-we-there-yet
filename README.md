@@ -5,8 +5,8 @@ Are We There Yet 🔜
 
 ######Check it out in all the colors of the rainbow!
 
-| Top Color | Bottom Color | Font 
-------------------------------------
+Top Color | Bottom Color | Font 
+--------- | ------------ | ----
 [Blue](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/blue.html) | Black | White
 
 [
