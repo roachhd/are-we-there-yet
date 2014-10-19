@@ -6,7 +6,7 @@ Are We There Yet 🔜
 ######Check it out in all the colors of the rainbow!
 
 Preview | Top Color | Bottom Color | Font 
---------- | ------------ | ----
+--------- | ------------ | ------ | -----
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/blue.html) | Blue | Black | White with blue accent
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/gray.html) | Gray | Black | White with gray accent
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/green.html) | Green |Black | White with green accent
