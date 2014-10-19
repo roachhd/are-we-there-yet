@@ -5,18 +5,18 @@ Are We There Yet 🔜
 
 ######Check it out in all the colors of the rainbow!
 
-Top Color | Bottom Color | Font 
+Preview | Top Color | Bottom Color | Font 
 --------- | ------------ | ----
-[Blue](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/blue.html) | Black | Whit
-[Gray](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/gray.html) | Black | White
-[Green](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/green.html) | Black | White
-[Mint](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/mint.html) | Black | White
-[Orange](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/orange.html) | Black | White
-[Pink](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/pink.html) | Black | White
-[Red](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/red.html) | Black | White
-[Turquoise](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/turquoise.html) | Black | White
-[White](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/white.html) | Black | White
-[Yellow](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/yellow.html) | Black | White
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/blue.html) | Blue | Black | White with blue accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/gray.html) | Gray | Black | White with gray accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/green.html) | Green |Black | White with green accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/mint.html) | Mint | Black | White with mint accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/orange.html) | Orange | Black | White with orange accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/pink.html) | Pink | Black | White with pink accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/red.html) | Red | Black | White with red accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/turquoise.html) | Turquoise | Black | White with turquoise accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/white.html) | White | Black | Black with pink accent
+[Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/yellow.html) |  Yellow |Black | White with yellow accent
 
 ######MORE COLORS COMING SOON 🔜
 
