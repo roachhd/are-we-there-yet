@@ -21,7 +21,7 @@ Preview | Top Color | Bottom Color | Font
 ######MORE COLORS COMING SOON 🔜
 
 The MIT License (MIT)
-Copyright (c) [2014] [Roach Haus](roachhd.com
+Copyright (c) [2014] [Roach Haus](roachhd.com)
 
 
 
