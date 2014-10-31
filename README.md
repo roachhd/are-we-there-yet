@@ -18,11 +18,14 @@ Preview | Top Color | Bottom Color | Font
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/white.html) | White | Black | Black with pink accent
 [Demo](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/yellow.html) |  Yellow |Black | White with yellow accent
 
+**Demos are super slow to load, normally its no where near that slow 🐌
+
 [Preview Images](http://1drv.ms/1ohKa3h)
 
 ######MORE COLORS COMING SOON 🔜
 
 The MIT License [MIT](http://htmlpreview.github.io/?https://github.com/roachhd/are-we-there-yet/blob/master/License.md)
+
 Copyright (c) 2014 [Roach Haus](http://roachhd.com)
 
 
